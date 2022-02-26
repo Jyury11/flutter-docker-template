@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "dart-code.flutter",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "coenraads.bracket-pair-colorizer",
+        "sirtobi.code-clip-ring",
+        "editorconfig.editorconfig",
+        "dart-code.dart-code",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "abusaidm.html-snippets",
+        "oderwat.indent-rainbow",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "mechatroner.rainbow-csv",
+        "visualstudioexptteam.vscodeintellicode",
+        "mosapride.zenkaku"
+    ]
+}
